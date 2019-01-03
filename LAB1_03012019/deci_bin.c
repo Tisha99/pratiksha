@@ -32,7 +32,7 @@ int conv(int c[10],int b)
       return(0);
    else
    {
-
-      return(0);
+      int i=0;
+      return(c[i],b);
    }
 }
